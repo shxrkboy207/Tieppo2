@@ -1,0 +1,10 @@
+70 120 Banana
+75 125 Banana
+80 130 Kiwi
+85 135 Kiwi
+90 140 Kiwi
+45 56 Banana
+50 95 Banana
+55 60 Banana
+54 90 Banana
+95 145 Kiwi
